@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishkj15
 - 👀 I’m interested in Python development, data analytics and Web development
-- 🌱 I’m currently learning React,Django,Docker
+- 🌱 I’m currently in 7th semester
 - 💞️ I’m looking to collaborate on Web Dev and Python oriented Projects and internships
 
 
